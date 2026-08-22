@@ -1,3 +1,0 @@
-repo_dist/objects/** filter=lfs diff=lfs merge=lfs -text
-*.filez filter=lfs diff=lfs merge=lfs -text
-* !text !filter !merge !diff
